@@ -1,5 +1,4 @@
-class Person
+class Person(name)
+  @name = name
 
 end
-
-beyonce = Person.new
